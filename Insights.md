@@ -1,0 +1,2 @@
+# Customer_purchase_trend_dashboard
+•	Utilized Tableau to create a comprehensive data visualization project focused on shopping trends of customer. The project incorporated multiple aspects of annual trends with respect to purchases, gender-wise customer buying pattern, customer loyalty & inventory requirement across different regions. The project significantly improved the company's ability to understand customer requirements and enhance the overall customer experience
